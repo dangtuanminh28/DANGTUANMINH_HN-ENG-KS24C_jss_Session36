@@ -8,9 +8,15 @@
     },
     {
       "id": 2,
-      "taskName": "Làm bài tập TS",
+      "taskName": "Làm bài tập JS",
       "completed": true,
       "priority": "MEDIUM"
+    },
+    {
+      "id": 3,
+      "taskName": "Làm bài tập TS",
+      "completed": true,
+      "priority": "HIGH"
     }
   ]
 }
