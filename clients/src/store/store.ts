@@ -1,4 +1,3 @@
-// src/store.ts
 import { configureStore } from "@reduxjs/toolkit";
 import taskReducer from "./slice/taskSlice";
 
